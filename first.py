@@ -6,6 +6,8 @@ names = []
 
 name = "Hello"
 
+# hi how are you
+
 for i in range(5): # range(0,5)
     # ... ellipses
     names.append(input(f"Enter {i+1}st name: ").title())
